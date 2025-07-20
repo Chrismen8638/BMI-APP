@@ -1,0 +1,10 @@
+name: bmi-app
+title:
+username: chrismen
+account: chrismen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15099602
+bundleId: 10643842
+url: https://chrismen.shinyapps.io/bmi-app/
+version: 1
